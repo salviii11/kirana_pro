@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "products": {
+      ".read": true,
+      ".write": true
+    },
+    "bills": {
+      ".read": true,
+      ".write": true
+    }
+  }
+}
